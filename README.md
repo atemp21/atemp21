@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atemp21&label=Profile%20views&color=0e75b6&style=flat" alt="atemp21" /> </p>
 
-- 🌱 I’m currently learning **React, GraphQL**
-
-- 💬 Ask me about **.NET, C#**
-
-- 📫 How to reach me **aaron.templeton@live.com**
+- 📫 Email me at **aaron.templeton@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
