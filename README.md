@@ -27,6 +27,6 @@ On nights and weekends I build small, sharp developer tools: terminal UIs, macOS
 
 #### 📫 Find me
 
-[aarontempleton.com](https://www.aarontempleton.com) · [LinkedIn](https://linkedin.com/in/aaron-templeton)
+[LinkedIn](https://linkedin.com/in/aaron-templeton)
 
 <sub>B.S. Computer Science, minor in Mathematics · University of Utah</sub>
